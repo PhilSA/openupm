@@ -1,0 +1,20 @@
+name: com.trove.tweens
+displayName: Trove Tweens
+description: >-
+  Trove Tweens is a simple tweening tool that allows you to create your own
+  highly-efficient custom tweens.
+repoUrl: https://github.com/PhilSA/com.trove.tweens
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT License
+image: >-
+  https://raw.githubusercontent.com/PhilSA/Trove/refs/heads/main/trove_header.png
+topics:
+  - dots-and-ecs
+  - utilities
+hunter: PhilSA
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:com.trove.tweens/README.md
+createdAt: 1744370818086
